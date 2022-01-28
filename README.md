@@ -10,8 +10,13 @@ Here are the list of programming languages I have some experience on.
 
 - Python
 - Lua
-- C++
+- C++ [some basics]
 - C#
 - C
-- Java
+- Javascript
 - HTML
+
+## Projects
+
+Currently, my projects are availible to view on my community Discord.
+Note, those projects are either in Hiatus or Canceled due to studies. Sob.
