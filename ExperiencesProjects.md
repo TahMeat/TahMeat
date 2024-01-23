@@ -15,7 +15,7 @@ Here are the list of programming languages I have some experience on. Ordered by
 ## Projects
 
 ###### Ahoyic
-- Current free-time project relating with music theory. Music is very cool.
+- Current free-time project relating with music theory. Music is very cool. Think of it being an interactive turn-based RPG, set in an environment of islands you can sail to.
 
 ######  Project NIT
 - This was a solo passion project where I created the arts, animations, map design, story, and code. Project NIT is a 3D-collectathon platformer where you play as a character traversing through time collecting pieces of energetic bricks. More information would be on the Trello dashboard, which is also in my Discord. The game is currently on-hold.
