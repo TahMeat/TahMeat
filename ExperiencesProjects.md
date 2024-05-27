@@ -16,6 +16,7 @@ Here is the list of programming languages I have some experience with.
 - C++
 
 ## Projects
+This list does not have ALL of my projects.
 
 ###### Ahoy
 - Current free-time project relating to music theory. Music is very cool. Think of it as an interactive turn-based RPG, set in an environment of islands you can sail to.
